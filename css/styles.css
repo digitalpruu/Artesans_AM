@@ -165,6 +165,7 @@ main .contact .contact-title p {
   font-weight: 500;
 }
 main .contact .contact-title a button {
+  margin-top: 10px;
   font-weight: bold;
   background: rgb(0, 197, 30);
   border-style: none;

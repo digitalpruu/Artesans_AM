@@ -38,6 +38,7 @@ main .contact .contact-title p {
 main .contact .contact-title a button {
   width: 300px;
   height: 60px;
+  margin-left: 10px;
 }
 
 footer .logo-footer img {
